@@ -1,0 +1,430 @@
+sarcasm,text,label,emotion,id
+0, Didn't have to tell you that Somebody's a Jan Rogers,0,anger,1
+0, already respects the bucket.,0,anger,2
+0," I accept all those flaws, why can't you accept me for this?",0,anger,3
+0," This is my wife Nancy. Look, get out!",0,anger,4
+0, Fine! Then you tell Roger because he was really looking forward to this!,0,anger,5
+0, I don't need you guys to care about me.,0,anger,6
+0," Okay, you don't think I thought of that?",0,anger,7
+0, Where else would he want from me?,0,anger,8
+0, You have to do that. It's Saturday!,0,anger,9
+0, This is so typical. I'm always the last one to know everything.,0,anger,10
+0," It's Ross, I told you I don't.",0,anger,11
+0," Oh yeah, I said Rachel's name but it didn't mean anything okay shit",0,anger,12
+0," Yeah, well you never have the time. I mean, I don't feel like I even have a girlfriend anymore, right?",0,anger,13
+0," We are switching at the next rest stop and you are going to drive the whole way back. That will be your punishment. You... greeting, sleeper.",0,anger,14
+0," Okay, okay, now what is wrong with my snuggles?",0,anger,15
+0," Fine, you want to get the birds? Get the birds!",0,anger,16
+0, Don't call us that.,0,anger,17
+0," Damn it, man!",0,anger,18
+0," I don't care, the wires have come loose in your head.",0,anger,19
+0," Well, then my son's going to fail a science class. And when that happens, I'm suing you first.",0,anger,20
+0, I've been texting you for hours. WHAT THE HELL?!,0,anger,21
+0," My new furniture, yes, and we're very excited about it.",0,anger,22
+0,What you want just here for the company? He's a sad Kaz Mahol extra!,0,anger,23
+0, Are you kidding me? That's in Rick! That's the last straw! I can't believe that I'm sitting here with both of my legs broken! And you're still asking me about getting those seeds?!,0,anger,24
+0," Be quiet for a second, I need to think through all these chunks of moron.",0,anger,25
+0," And do it! I thought I could give the hotel to Mavis and Johnny, but he's going to ruin everything! I have to get out of this! I have to! I... I... I...",0,anger,26
+0," All you broader mind control tic-tacs? A flag pan that unregisters you to vote? Yes, you all brats! You know this can't melt anything!",0,anger,27
+0," You idiot, it was our dream! This is ridiculous! We can even get a good night's sleep anymore! Time to take action! Stupid mom and dad, they've never moved us none of this would happen!",0,anger,28
+0," Hey, you don't know what's he capable of?",0,anger,29
+0," I'm car-signed, Delusional! Do you know how hard it is to stay positive all the time when all you folks do is complain, complain, complain! Jiminy, mother, love and trust your strutal!",0,anger,30
+0, Whoa! No drinks near the buck!,0,anger,31
+0, That kid kicked me really hard on the pl-,0,anger,32
+0," This is not a marriage. This is the world's worst hangover. LAUGHTER Ross, listen, if you do not get this ennormate, I will. B-",0,anger,33
+0, You kissed another woman?,0,anger,34
+0," Damn it higher the girl. Okay, everybody ready?",0,anger,35
+0, Where is Colamide? Where the hell have you been?,0,anger,36
+0," I don't have to answer your questions, okay? I'm a big boy. I can do whatever I want.",0,anger,37
+0, They didn't take any of my suggestions,0,anger,38
+0," No, seriously, what's wrong with you?",0,anger,39
+0, Never! Never!,0,anger,40
+0," They're not rostre just saving them for the important people, okay? What if I was the president?",0,anger,41
+0, You ordered a stripper for the shower that is totally inappropriate.,0,anger,42
+0,Would it work if I just punched you in the face?,0,anger,43
+0, You can't leave me with them. We're we're a team. We're playing the zone. They're gonna triple team me.,0,anger,44
+0," Well then, the name means that this... This was all a lie? You didn't want to have any binding time with me. You just didn't want to give me the hotel! No!",0,anger,45
+0, Do you think you can knock up my daughter and then not marry her? I want to kill you!,0,anger,46
+0,deal is that nobody touches food on my plate.,0,anger,47
+0," I am you Monica Geller, hyphen bing.",0,anger,48
+0, Oh my God! Go away! Stop looking in here!,0,anger,49
+0, You know what? I'm not talking to you. You go back to sleep and you are your rapist? No.,0,anger,50
+0, just a friend that's all.,0,anger,51
+0, I don't have time to convince you because he's only here for four hours and I'm going to go,0,anger,52
+0, It was my idea.,0,anger,53
+0," I asked you to guard the ring. I know, I'm sorry.",0,anger,54
+0," Did you not hear me say, do, who'd?",0,anger,55
+0, It doesn't matter because it is not true.,0,anger,56
+0, But this is my home and I want to be able to come and go whenever I want,0,anger,57
+0," Well, why don't you tell me what you're supposed to be, huh?",0,anger,58
+0," Oh, what are you stupid? It's been three hours. Is that all?",0,anger,59
+0, What the hell?,0,anger,60
+0," Like, like I did something terrible to you.",0,anger,61
+0, And you are your rapist? No.,0,anger,62
+0," David's heart will be broken. It'll be too hard for them to recover from and then Phoebe will end up alone again. Man, that's some bad advice.",0,anger,63
+0," Oh, oh, oh, I respectfully disagree.",0,anger,64
+0," Oh god, get out!",0,anger,65
+0,i wonder what this is about,0,disgust,66
+0,I don't like that word,0,disgust,67
+0,The surface is slick,0,disgust,68
+0,i wonder what this is about,0,disgust,69
+0,it's eleven oclock,0,disgust,70
+0,I think I've seen this before,0,disgust,71
+0,Don't forget a jacket,0,disgust,72
+0,we'll stop i a couple of mintues,0,disgust,73
+0,we'll stop i a couple of mintues,0,disgust,74
+0,it's eleven oclock,0,disgust,75
+0,I think I have a doctor's appointment,0,disgust,76
+0,I think I have a doctor's appointment,0,disgust,77
+0,it's eleven oclock,0,disgust,78
+0, I can't believe it.,0,disgust,79
+0,i wonder what this is about,0,disgust,80
+0,No! no way,0,disgust,81
+0,Don't forget a jacket,0,disgust,82
+0,it's eleven oclock,0,disgust,83
+0,it's eleven oclock,0,disgust,84
+0,maybe tomorrow it will be cold,0,disgust,85
+0,I'm on my way to the meeting,0,disgust,86
+0,ugh classy,0,disgust,87
+0,oh sure go with the sissy,0,disgust,88
+0,"will you grow up? I'm not talking about sexy stuff. but like, when i'm cooking naked",0,disgust,89
+0,Don't forget a jacket,0,disgust,90
+0,The surface is slick,0,disgust,91
+0,the airplane is almost full!,0,disgust,92
+0,it's eleven oclock,0,disgust,93
+0,I think I have a doctor's appointment,0,disgust,94
+0,you have no idea how loud they are,0,disgust,95
+0,I'm sorry what the hell is that,0,disgust,96
+0,you're disgusting!,0,disgust,97
+0,"I don't care Rach. Look, I'm just so tired of being the guy who knows all the secrets and can't tell anyone!",0,disgust,98
+0,I'm sorry what the hell is that,0,disgust,99
+0,ughh,0,disgust,100
+0,okay get a room,0,disgust,101
+0,"no no you're right, it is a rediculous name",0,disgust,102
+0,i wonder what this is about,0,disgust,103
+0,the surface is slick,0,disgust,104
+0,it's eleven oclock,0,disgust,105
+0,it's eleven oclock,0,disgust,106
+0,ugh it's eleven oclock,0,disgust,107
+0,"oh my god will, it's eleven oclock",0,disgust,108
+0,it's eleven oclock,0,disgust,109
+0,the airplane is almost full!,0,disgust,110
+0,i wonder what this is about,0,disgust,111
+0,I think I've seen this before,0,disgust,112
+0,it's eleven oclock,0,disgust,113
+0,i wonder what this is about,0,disgust,114
+0,i wonder what this is about,0,disgust,115
+0,it's eleven oclock,0,disgust,116
+0,I think i have a doctor's appointment!,0,fear,117
+0,I woke up this morning and the stripper is gone and the ring! He's gone!,0,fear,118
+0,"look please, please don't go anywhere okay?",0,fear,119
+0,"You know in a couple of hours, I am gonna get really drunk and want to call cathy and you are gonna have to stop me!",0,fear,120
+0,it's eleven o clock!,0,fear,121
+0,it's eleven o clock!,0,fear,122
+0,The surface is slick,0,fear,123
+0,I think I've seen this before,0,fear,124
+0,I think I've seen this before,0,fear,125
+0,it's eleven o clock!,0,fear,126
+0,that is exactly what happened,0,fear,127
+0,please don't make me go there,0,fear,128
+0,it's eleven o clock!,0,fear,129
+0,what should i do?,0,fear,130
+0,the airplane is almost full!,0,fear,131
+0,I think I've seen this before,0,fear,132
+0,the airplane is almost full!,0,fear,133
+0,Oh Oh I feel another one coming,0,fear,134
+0,The surface is slick,0,fear,135
+0,Kinda spooky without any lights,0,fear,136
+0,"uh, sorry wrong number",0,fear,137
+0,it's eleven o clock!,0,fear,138
+0,I think i have a doctor's appointment!,0,fear,139
+0,the airplane is almost full!,0,fear,140
+0,I think I've seen this before,0,fear,141
+0,Oh no,0,fear,142
+0,What am I gonna do?,0,fear,143
+0,I just can't watch it's just too scary,0,fear,144
+0,"Joey, I'm scared to death about this.",0,fear,145
+0,Did she call? You told her I am sick right? You always tell her I am sick!,0,fear,146
+0,"I'm telling you something is wrong, my brother doesn't stay out all night.",0,fear,147
+0,Oh my god,0,fear,148
+0,we'll stop in a couple of minutes,0,fear,149
+0,I'm on my way to the meeting,0,fear,150
+0,Did everyone getout alright?,0,fear,151
+0,I've kinda uh kinda had this crush on you,0,fear,152
+0,i wonder what this is about,0,fear,153
+0,The audition is in a couple hours and I don't even understand the game!,0,fear,154
+0," Oh Joey, I have such a problem.",0,fear,155
+0,the airplane is almost full!,0,fear,156
+0,I think I've seen this before,0,fear,157
+0,I'm on my way to the meeting,0,fear,158
+0,I'm on my way to the meeting,0,fear,159
+0,it's eleven o clock!,0,fear,160
+0," Oh, geez, Frank. I don't know if a knife is necessary. I mean, you know, you kind of have things handled without it.",0,fear,161
+0," Oh man, Rick. I'm looking around this place and I'm starting to work up some anxiety about this whole thing.",0,fear,162
+0,it's eleven o clock!,0,fear,163
+0,I think I've seen this before,0,fear,164
+0," Hey, Sadness! Did did you hear about the party we are having? yes yes joy Is it the birthday party? Did you say...",0,fear,165
+0,maybe tomorrow it will be cold,0,fear,166
+0,it's eleven o clock!,0,fear,167
+0,it's eleven o clock!,0,fear,168
+0,The surface is slick,0,fear,169
+0,"it's a trick, get an axe",0,fear,170
+0,the airplane is almost full!,0,fear,171
+0,I think I've seen this before,0,fear,172
+0,great advice on that joey thing,1,joy,173
+0,"I know i miss you too, i can't wait to see you. i love you, bye",1,joy,174
+0,they love my candy? oh man i'm gonna go make more,1,joy,175
+0,"rachel, i have not missed one question in this whole game, I own this game. look at my hand",1,joy,176
+0,"what a beautiful star, hey I'm fine by the way",1,joy,177
+0,oh i have to tell monica what a wonderful brother she has,1,joy,178
+0,We did it? Yup! Awesome!,1,joy,179
+0,"steve, good job on .... thank you sir",1,joy,180
+0,I'm really glad monica asked yourself,1,joy,181
+0,"even if we are not married this baby is going to be so loved. that's right, by his uncle to, and by you...",1,joy,182
+0,joey that is so sweet,1,joy,183
+0,"tasty, I'm really starting to feel that you guys have a history it's nice",1,joy,184
+0,"don't thank me thank yourself, you are the one who faced your fear and ultimately overcame them",1,joy,185
+0,"what's going on, it was earlier, ... excited about this .. event",1,joy,186
+0,"hey you listen, thanks a lot [something], oh my god, I'm gonna catch the bus to the ball",1,joy,187
+0,"we did it, i know we did it, that was a",1,joy,188
+0,i just got on a date with two unbelieveably cute nurse.,1,joy,189
+0,What a big day! You are such an old star! Oh you've had a knock the coaches skates off! Hockey scholarship! You become... And I'm...,1,joy,190
+0,"yeah you look great too, did you get a hair cut?",1,joy,191
+0," Amber, aren't so excited to finally meet you. Do we hug or wave or don't want to put you out?",1,joy,192
+0,and all the piece of my life are falling right into place,1,joy,193
+0,oh i can't tell you how great it was to look at in the crowd and see your face,1,joy,194
+0,"absolutely, it has been in my family for generation. and every bride who wore it has lived a long and happy life",1,joy,195
+0,Oh i wanna wear this everyday,1,joy,196
+0,"pheobe we are so pround of you, you are amazing",1,joy,197
+0,to lead my own tv series? I've dreamed about this for years. well and I'm not done preparing,1,joy,198
+0,oh absolutely should we set around seven?,1,joy,199
+0,"we don't have to make it a guest room, we can think of something to do with the room together. that's a great idea",1,joy,200
+0,"gaze into our future, and we will think about our marriage and days to come",1,joy,201
+0,isn't it great one less person we'll have to make a small talk with?,1,joy,202
+0,I'll just have 2 more points to beat him,1,joy,203
+0,"whoa this is so amazing, i really thought i have to talk you into this more",1,joy,204
+0,"whoa monica, what a ... influence dozens of people",1,joy,205
+0,i mean two best friends falling in love how often is that gonna happen?,1,joy,206
+0,yeah i can do that. by the way i love my office,1,joy,207
+0,"cuz, you can get to live out my fantasy",1,joy,208
+0,"are you free for dinner tomorrow night? oh yeah, love that",1,joy,209
+0,"candles, champaign, anneversiry is great",1,joy,210
+0,"oh joey, this rain it's beautiful i love it",1,joy,211
+0,"just tell you something, very flattered but I'm engaged",1,joy,212
+0,you know i haven't been having that feeling since I first started going out with Chandler,1,joy,213
+0,"me too, there's a game on tuesday",1,joy,214
+0,oh yeah? you know you could totally sell this.,1,joy,215
+0,hi joey what are you doing here,1,joy,216
+0,he's very charming,1,joy,217
+0,alright let's go shopping,1,joy,218
+0,no you make them funny. you are the funny one.,1,joy,219
+0,"What do you think I did? I discreetly slipped off the other earring, put it in my pocket and then got the hell out of there!",1,joy,220
+0," Hey, Reagan, let's go to the mall and get a wetsel's pretzel. They got those ones with the cheese inside the crust and...",1,joy,221
+0, Today I am finally getting that promotion. Imagine it. Me! Rooling the office with an iron- B-,1,joy,222
+0,I think tonight was a very good start.,1,joy,223
+0, Fantastic! The Shadow Board should be pleased!,1,joy,224
+0," So it all worked out. We survived Armageddon, and I think I might get along with Brett after all.",1,joy,225
+0," It's Aspen! We made it! Well, looks like you're gonna be reunited with Rupert after all.",1,joy,226
+0, Lasting Christmas last arrived on the Christmas Christmas!,1,joy,227
+0,this was so much better than the first time we went out,1,joy,228
+0,"oh, my big scene is coming up, big scene coming out",1,joy,229
+0,"so, good new the divorce is finalized and the paper is here",1,joy,230
+0,"hey ross, wouldn't it be great if we can go for like 2 straight hours without dropping?",1,joy,231
+0,would you look at her she's so peaceful,1,joy,232
+0,that's great good for you guys.,1,joy,233
+0,we had the best time,1,joy,234
+0," Look, I want to apologize for saying your method was stupid. And maybe ask you to be my teacher again.",0,sadness,235
+0," A flat? Oh no! No, I'll be late for the party! No signal! You gotta be kidding me.",0,sadness,236
+0," Okay. Hi. Look, about what happened earlier. Oh, it was.",0,sadness,237
+0, God,0,sadness,238
+0, aww wicked i cant see this coming buh buh buh my lust oh blood,0,sadness,239
+0, No. Now even have a date.,0,sadness,240
+0, is for me not to see you anymore.,0,sadness,241
+0," Oh shoot, I work Monday nights.",0,sadness,242
+0, I got some bad news.,0,sadness,243
+0, So Rachel and I broke up.,0,sadness,244
+0, It's just changed everything.,0,sadness,245
+0, What kind of God let this happen? Ehhhhh!,0,sadness,246
+0, My expert hand-crafting. Be smirged. Be smirged.,0,sadness,247
+0, This is my baby gonna have a simple Joey.,0,sadness,248
+0, It's me. I'm the swarer. I'm ruining my child.,0,sadness,249
+0,I'm sorry they took your rocket. They took something that you loved. It's gone forever.,0,sadness,250
+0," You can't tell this! When a mom is shunned by groceries, she has nothing! Please!",0,sadness,251
+0, limbs. So happy for you. I'd clap but well.,0,sadness,252
+0," And I'm very sorry, but I really don't know where your father is. And that's the truth.",0,sadness,253
+0, Probot was gonna prove that I should run the company. Maybe JR was right to fire me.,0,sadness,254
+0," So, you know, I wanted to tell you yesterday, but I just... I feel all flupy and...",0,sadness,255
+0, I am so so so so sorry,0,sadness,256
+0,"I'm sorry, I am not going back to the Renaissance fair.",0,sadness,257
+0," David that I was in love with, David, who went to Russia and broke my heart, David. Oh my God.",0,sadness,258
+0," And I don't know what to do. Oh, can I throw up in my diaper genie?",0,sadness,259
+0,I don't know. It just died. I'm getting a bunch of static.,0,sadness,260
+0," Listen, I'm sorry I've been so crazy and jealous and this just I like it a lot.",0,sadness,261
+0,How do you repay the sacrifice that big? It all feels like a burden. How can I say that? I'm a bad daughter.,0,sadness,262
+0," I don't know! I was searching for a leak on the other side of the river and got sucked in! This is bad, I can't lose another job. I just can't seem to find my foe!",0,sadness,263
+0,It's just trying to protect her. But you're right. We don't get to choose who Riley is.,0,sadness,264
+0," Well, the old lady died.",0,sadness,265
+0,"I guess the sad truth is, not everyone will accomplish something great. Some of us may just have to find meaning in the little moments that make up life.",0,sadness,266
+0," I want to apologize if I, you know, seem to tady edgy yesterday, much hour, you know, to hormones, you know.",0,sadness,267
+0," Oh, okay, I'm sorry.",0,sadness,268
+0," Ah! Yeah, I, uh... I give up a job too.",0,sadness,269
+0," I used to think of you as somebody that would never, ever hurt me.",0,sadness,270
+0, I just want to be married again.,0,sadness,271
+0, I lost my mom to suicide.,0,sadness,272
+0, We wanted to throw you a big surprise and a great shower and now you don't have either.,0,sadness,273
+0, I mean I feel terrible but I have to do this if I want my marriage.,0,sadness,274
+0, I've been talking to you for five minutes now about killing myself and no one's even looked up from their desk. Hang on.,0,sadness,275
+0," Come on, sweetie, you've had to work late every night for the past two weeks. What is it this time? Actually, it's kind of my fault. I quit today.",0,sadness,276
+0," Alright guess what? The baby's coming and I don't know what to do. Oh, could I throw up in my diaper, Jeanie?",0,sadness,277
+0, That isn't as done with the whole dating thing.,0,sadness,278
+0, There's not gonna be a wedding. Ross and I are not getting married.,0,sadness,279
+0," You know, you wear a white coat, I wear a blue blazer. That means we can't be friends at work. Them, so be it. You know, yeah.",0,sadness,280
+0, Please promise me that you'll tell her that.,0,sadness,281
+0," One more chance, Ursula, please.",0,sadness,282
+0," No. No, I don't. Could you be a deer and go tell him?",0,sadness,283
+0, I'm gonna kill myself.,0,sadness,284
+0, you know without without these arms,0,sadness,285
+0, And I'm ashamed to say that I took it. I advised the fellow actor to play a role.,0,sadness,286
+0," Yeah, me too.",0,sadness,287
+0, I tried to reach it work. There's been a fire.,0,sadness,288
+0, I eat by myself in the alley because everybody hates me.,0,sadness,289
+0," I can't. She dumped me. I mean, I totally trusted her. And then one day, it was like, OK, bye, Febes. Gone.",0,sadness,290
+0, So what about us? Everything we feel for each other.,0,sadness,291
+0, I really wish they'd care just a little bit.,0,sadness,292
+0, I am sorry about what I said.,0,sadness,293
+0," The point is, my natural charisma has made him fail his midterm.",0,sadness,294
+0," You know, you're going to be really, really hard to get over.",0,sadness,295
+0, too bad.,0,sadness,296
+0, Yah Maori Tomi died.,0,sadness,297
+0," Well, it's official. There are no good movies.",0,sadness,298
+0, I'm so sorry.,0,sadness,299
+1,"Sure, cut the foreigner in half. There's a billion more where he came from.",1,sarcasm,300
+1,The blunt instrument that will be the focus of my murder trial?,1,sarcasm,301
+1,"\""Dave.\"" Sounds like Leonard's got a new BFF.",0,sarcasm,302
+1,"Maybe I heard you wrong. A lot of words sound like \""yoga.\",0,sarcasm,303
+1,I hope I'm a waitress at the Cheesecake Factory for my whole life.,0,sarcasm,304
+1,"When I didn't pay my bill, the Department of Water and Power thought I would enjoy the ambience.",0,sarcasm,305
+1,"You know, if you're really serious about that, I hear there are some exciting opportunities in home care for the old and fat.",0,sarcasm,306
+1,"You know what? That was almost on topic. I'm gonna say, \""Good job, Sheldon.\",0,sarcasm,307
+1,"Oh, sure. And while we're at it, why don't we get engaged, too? Why don't we get a little house, start a family? Enjoy our sunset years together? Do you hear yourself, woman?!",0,sarcasm,308
+1,You were right. Your larynx is terribly inflamed. I've never seen anything like it.,0,sarcasm,309
+1,How nice. Maybe they can carpool when they visit you in federal prison.,1,sarcasm,310
+1,You were very clear. As was everyone else at the table,0,sarcasm,311
+1,"They gave him an assistant? If I want a new pen, I have to go to the bank with wire cutters.",0,sarcasm,312
+1,"Well, I'm sorry, too, but there's just no room for you in my wallet.",0,sarcasm,313
+1,"Oh, please. The only way she could make a contribution to science would be if they resumed sending chimps into space.",0,sarcasm,314
+1,"Good idea, sit with her. Hold her, comfort her. And if the moment feels right, see if you can cop a feel.",0,sarcasm,315
+1,"- Now?! - No, after my tongue has swollen to the size of a brisket!",0,sarcasm,316
+1,It's just a privilege to watch your mind at work.,0,sarcasm,317
+1,"Just the latest copy of Applied Particle Physics quarterly. Oh, you know, that is so weird that yours came and mine didn't.",0,sarcasm,318
+1,"Well, there's always the possibility that a trash can spontaneously formed around the letter but Occam's rasor would suggest that someone threw it out.",0,sarcasm,319
+1,"If you're compiling a mix CD for a double suicide. Oh, I hope that scratching post is for you.",0,sarcasm,320
+1,No. The dark crescent-shaped patterns under your arms conceal it nicely.,0,sarcasm,321
+1,"How's this? \""Pleased to meet you, Dr. Gablehauser. \""How fortunate for you that the university's \""chosen to hire you, despite the fact \""that you've done no original research in 25 years, \""and instead have written a series of popular books \""that reduce the great concepts of science \""to a series of anecdotes, \""each one dumbed down to accommodate the duration \""of an average bowel movement.",0,sarcasm,322
+1,Not to mention you'd have to power down on saturdays.,0,sarcasm,323
+1,"Yeah, my parents felt that naming me Leonard and putting me in Advanced Placement classes wasn't getting me beaten up enough.",0,sarcasm,324
+1,"Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",0,sarcasm,325
+1,I don't think I'll be able to stop thinking about it.,0,sarcasm,326
+1,"haha, very funny",0,sarcasm,327
+1," What's going on? I'm dead, I'll tell you what's going on!",0,sarcasm,328
+1," Bravo, Dipper Pines! You've discovered our little secret! Applaud everyone! Applaud sarcastically!",0,sarcasm,329
+1," South of the case, yet, ma'am? I'm so confident you're gonna say no, that I'm gonna take a long, slow sip from my cup of coffee.",0,sarcasm,330
+1, They're gonna be staying to be in a criminal. I'm a state proof.,0,sarcasm,331
+1," I still can't taste anything. Awesome adventure, Rick.",0,sarcasm,332
+1," Oh look honey, it's our son with Albert Eindouche.",0,sarcasm,333
+1," Oh yeah, this should play out just fine.",0,sarcasm,334
+1," Yeah, it is. I don't get it.",0,sarcasm,335
+1, Well you guys are having another day in Phil Collins proverbial paradise.,0,sarcasm,336
+1," Jerry, this hem is got to be all you write. It's incredible.",0,sarcasm,337
+1, Ciri-boy! Ciri-boy! You are adorable!,0,sarcasm,338
+1," Wow, can't wait to meet this fascinating character.",0,sarcasm,339
+1," Sure, sure, why don't we just burn Galileo at the state for saying the Sun is round?",0,sarcasm,340
+1," Oh, don't thank me. Thank the jerk that never showed up. OK, I got to get to work.",0,sarcasm,341
+1," Oh, sure I am. Because you always have to be right.",0,sarcasm,342
+1,I love that you take pride in your looks. You don't want to have to pee in the morning and you're in there stepping an hour on your air.,0,sarcasm,343
+1," I'm doing tomorrow. Yeah, well, Bernie, that's a little under the weather and my mom's kind of under my dentist.",0,sarcasm,344
+1," No, this is just part of a daredevil game that I play called Wait Until The Last Moment Before I Burst and DONE!",0,sarcasm,345
+1,You go off to a really good start with the girl.,0,sarcasm,346
+1,But younger than some buildings.,0,sarcasm,347
+1," Yes, I believe you are just a horrible person.",0,sarcasm,348
+1, Oh I say good sir. Oh a ramp. Oh oh Oh bobo bobo bobo bobo,0,sarcasm,349
+1," Meg, don't be such a hothead. What? Hey, Meg, you sure look hot today. What?",0,sarcasm,350
+1, That's a good idea. Just kidding you idiot. You simple to know,1,sarcasm,351
+1, How useful!,0,sarcasm,352
+1,"Do you have a trigonometry calculator? Yeah, in the drawer with the First Folio of Shakespeare.",0,sarcasm,353
+1,Frequent flier Frank. What's that? You. Frequent flier Frank. You're a bit of a legend around these parts. Honor to finally meet you. I sense sarcasm,0,sarcasm,354
+1,"Oh, suddenly, you're concerned about loyalty. Oh, you're talking to me. Won't that bore you? Apparently, I'm boring! Listen, everyone, let's not let this ruin our beautiful holiday. Alex, nobody needs your sarcasm right now!",0,sarcasm,355
+1,Yes! Please sign me up for soccer.,0,sarcasm,356
+1,"Oh no, now what will take up all my spare time and cause my family to resent me?",0,sarcasm,357
+1,"Yea, those crossword puzzles really helped. It was nice to get away from being sad and feel stupid for a while.",0,sarcasm,358
+1,"Oh great, we're taking in an angry teen. Normally we make them here and ship them out!",0,sarcasm,359
+1,Oh no you're so good at this.,0,sarcasm,360
+1,Oh I'm so happy you're playing drums Louise!,0,sarcasm,361
+1,"Assuming I can keep up this pace, three hours, 11 minutes. Plus however long it takes to conclude this fairly pointless conversation.",0,sarcasm,362
+1,Thank you so much for giving me the opportunity to help.,0,sarcasm,363
+1,"Sure, maybe a tableau of me trying to pummel you to death.",0,sarcasm,364
+1,"Well, I always figured it was to study us, discover our weaknesses, and report back to your alien overlords.",0,sarcasm,365
+1,Of course you do. You're a cutie pie! Any girl would be lucky to have you!,0,sarcasm,366
+1,"Well, if you don't mind looking like an orange traffic cone, great.",0,sarcasm,367
+1,"You're right, the party's fantastic. Please, tell me more. I haven't heard enough about it all week because hearing about that never gets old!",0,sarcasm,368
+1,"Oh, sure, what a wonderful idea. And after that, I'll make up my own rules of oral hygiene. You know, instead of flossing, I'll rub pudding on my gums. I'm going to get the number of the SyFy Channel and give them what for.",0,sarcasm,369
+1," So I'm so sorry, Andre, is your molly come down relevant to global security?",0,sarcasm,370
+1, and no taking selfies on the moon landing set. Top secret isn't a thing for eights and above Reagan.,0,sarcasm,371
+1, so funny I could just assassinate you. No really I could do it. My fingers hovering over the button. Ha ha ha ha ha. I'm about to print. I'm about to print. I'm about to print.,0,sarcasm,372
+1, Pick eye contact. I make tons of eye contact.,0,sarcasm,373
+1," She spawns bomb, that's a great idea! And maybe I should cook the patties and do the dishes and wear square pants and live in a pineapple!",0,sarcasm,374
+1,Food is so good there.,0,sarcasm,375
+1,"Sounds like you're writing yourself a little play there, Rach. LAUGHTER Wow, I can... Let me know how that one turns out.",0,sarcasm,376
+1,Jared yd next,0,sarcasm,377
+1," That is so cool! My only tone is clean up on my own heart! Yeah, it's amazing we're talking in the same language your entire life can do!",0,sarcasm,378
+1,I buy you zero the time,0,sarcasm,379
+1," Yeah, why would only my glasses be visible?",0,sarcasm,380
+1," What can I say? It's been great knowing you, SpongeBob. Good luck somewhere else. I'm gonna miss you. Bo-ho-bo-ho-bo-ho-bo-ho-",0,sarcasm,381
+1," Tiny brain is confused. Guess I'll just have to dumb it down to your level. Sorry, it won't speak more on as well as you, but let me shrug. BOOM!",0,sarcasm,382
+1," Oh yeah, that sounds fantastic. It was right I guess. I don't know. Who was great? Alright?",0,sarcasm,383
+1," Bernie, that cop is terrible! Almost as terrible as you're cooking! Yes! We're gonna put Ember out of her misery and retire, huh? Finally put her name on the sign out there. That's...",0,sarcasm,384
+1,Exactly! It's not like there's a mad scientist just living in the basement. Oh. Great.,0,sarcasm,385
+1," I'm so lucky we ran into you guys! Hey, I bet you're the best crank crew in the world!",0,sarcasm,386
+1," and this, yeah, not happening.",0,sarcasm,387
+1," Right, like I would spend a moment of my time blowing bubble. Mm-hmm. Oh, please. I mean, who in the world would pay to blow bubble?",0,sarcasm,388
+1," You ready? No! You think this is funny? Uh-huh. You know what else is funny? Skating lives. Now, hit the ice, ladies!",0,sarcasm,389
+1," Oh, please, I will become dead in bedwaters with that heart! So that the fashion's soon.",0,sarcasm,390
+1," Yeah, get a big glow is so awesome. Yeah, we had a great time. Best day of my life. Well, this has been really fun, extremely. But we're gonna go.",0,sarcasm,391
+1," Oh, well done! Hehehe, he's so great. Thank you, Johnny. What a wonderful surprise that was. But...",0,sarcasm,392
+1," Just a little bit more, just make sure to. Oh, Bravo, Joy. She's totally fitting in. Oh, thanks so much, we wee.",0,sarcasm,393
+1," I can't think of anything I'd love to do more on my day off. Then go Jelly fishing with my two best friends, SpongeBob and... Uh... Huh?",0,sarcasm,394
+1," Really? Jelly fishing with you guys? Oh, that would be the best day ever in my book. I would love to go jellyfishing.",0,sarcasm,395
+1,You really need your help! Hey! I bet you're the best train crew in the world! Wow!,0,sarcasm,396
+1," Now that you're human you can't do nothing about it. Go do your own dirty work for a change. Buster! Okay, got it!",0,sarcasm,397
+1,Six years of drama school for this.,0,sarcasm,398
+1," Chess, you're so beautiful!",0,sarcasm,399
+1," No, don't worry about me, I may cook it.",0,sarcasm,400
+0,oh my god what the hell are you doing?,0,surprise,401
+0,is he crazy? you just had Ross's baby.,0,surprise,402
+0,a tv that appears out of nowhere. that's a dream. man how did i afford all this stuff.,1,surprise,403
+0,what is the matter with your face?,0,surprise,404
+0,I don't know what's the big deal. people do it all the time,0,surprise,405
+0,what does this mean? what are you... I mean do you want to get back together?,1,surprise,406
+0,oh god. oh he's in there right now?,0,surprise,407
+0,maybe. oh my god I didn't really believe it until you just said it.,0,surprise,408
+0,what's going on?,0,surprise,409
+0,what are you looking at me for? i didn't know that/,0,surprise,410
+0,you slept with stripper?,0,surprise,411
+0,"what is this? no pheobe, don't look.",0,surprise,412
+0,"she thinks monica is empty, she's the empty vase",0,surprise,413
+0,"look look, he's doing it again the guy with the telescope. Oh my god, go away, stop looking in here.",0,surprise,414
+0,Oh right! tonight was your party.,1,surprise,415
+0,why not? he makes a ton a month,1,surprise,416
+0,you did? oh. I was figure you'd throught I was Monica's gigi older brother,0,surprise,417
+0,"oh please, just the fact that you want me here to support you. oh my god, is that ... so gogerous.",1,surprise,418
+0,wait you didn't even know her.,0,surprise,419
+0,what? you are going out with her again?,0,surprise,420
+0,what are you doing here? aren't you supposed to be in restaurant?,1,surprise,421
+0,where is he? he is supposed to be here. well the baby needs him,0,surprise,422
+0, What the god damn it!,0,surprise,423
+0,That woman looks exactly like the pictures of Princess Panchali in the book. How often does one see a beloved fictional character come to life?,1,surprise,424
+0, What happened to my parlour?,0,surprise,425
+0, What? My car! It's gone! But... but... but... but... but that's impossible!,0,surprise,426
+0," Ugh, what's going on? I mean, what are you doing here? She's not the only one. Hey, buddy. Guys? You, I mean you're...",0,surprise,427
+0,how can you not know which one?,0,surprise,428
+0,whoa it's huge. So much ... in the cubical. This is a cube,1,surprise,429
