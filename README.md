@@ -1,4 +1,5 @@
 # Advanced Multimodal Sentiment Analysis with Sarcasm Detection
+Detailed report: https://github.com/VivianZhao12/Multimodal-Sentiment-Analysis-with-Sarcasm-Detection/blob/c9cec83b931fd7effa9528f867bf920b0ab9d30c/DSC190__MLFL_Sentiment_Detection.pdf
 
 ## Introduction
 
